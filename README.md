@@ -8,6 +8,6 @@ Fish-Game-
                                                                                   Rafayel Mkrtchyan, December 15, 2013
                                                                                   
 Reminder<< # To run the program:
-            1) Download the .xml file
-            2) Go to http://snap.berkeley.edu/snapsource/snap.html
+            1) Save file as .xml file and download it.
+            2) Go to http://snap.berkeley.edu/snapsource/snap.html.
             3) Put the file in the center of the webpage and wait few seconds(the programs needs to load).
